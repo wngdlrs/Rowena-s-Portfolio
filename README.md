@@ -32,6 +32,7 @@ The objective of this project is to demonstrate the process of loading data from
 - List the tables again to confirm successful creation of the 'users' table
 - Exit the HBase Shell:
    - *exit*  
+
 **4. Execute Pig Script:**
 - Check the contents of the 'hbase.pig' script to verify its correctness:
    - *less hbase.pig*
@@ -44,6 +45,7 @@ The objective of this project is to demonstrate the process of loading data from
 - List the tables to ensure the 'users' table is present
 - Once confirmed, display the records to check if the data loaded successfully:
    - *scan 'users'*
+
 **6. Cleanup (Optional):**
 - If needed, to clear everything and retry the process, it is important to first disbale the table and then drop the 'users' table
    - *disable 'users'*
