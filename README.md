@@ -6,6 +6,10 @@
 ### Objective:
 The objective of this project is to demonstrate the process of loading data from HDFS (Hadoop Distributed File System) into HBase, a NoSQL database that runs on top of Hadoop. The steps outlined below provide a clear and concise guide to achieving this task.
 
+**HBase Architecture**
+
+![Below is a detailed explanation of the key components and layers of the HBase architecture](/image/Hbase_Achitecture.jpg)
+
 **Step-by-Step Guide:**
 
 **1. Download Files using the wget command in the PuTTY Terminal.**
