@@ -31,7 +31,7 @@ The objective of this project is to demonstrate the process of loading data from
    - *create 'users', 'userinfo'*
 - List the tables again to confirm successful creation of the 'users' table
 - Exit the HBase Shell:
-   - *exit*  
+   - *exit*
 
 **4. Execute Pig Script:**
 - Check the contents of the 'hbase.pig' script to verify its correctness:
